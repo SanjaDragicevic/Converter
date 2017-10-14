@@ -2,6 +2,7 @@ converter(10, 'EUR', 'BAM');
 converter(10, 'EUR', 'RSD');
 converter(10, 'EUR', 'USD');
 converter(10, 'EUR', 'HRK');
+converter(10, 'BAM', 'HRK');
 
 function converter(iznos, valuta_in, valuta_out){
 	var euro_bam = 1.95;
