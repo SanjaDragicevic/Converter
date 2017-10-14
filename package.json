@@ -1,0 +1,20 @@
+{
+  "name": "Converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjaDragicevic/Converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanjaDragicevic/Converter/issues"
+  },
+  "homepage": "https://github.com/SanjaDragicevic/Converter#readme"
+}
